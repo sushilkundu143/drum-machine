@@ -40,17 +40,17 @@ Within #drum-machine I can see an element with a corresponding id="display".
 
 ### Steps
 1. Clone the Repository
-`git clone https://github.com/yourusername/drum-machine.git
-cd drum-machine`
+```git clone https://github.com/yourusername/drum-machine.git
+cd drum-machine```
 
 2. Install Dependencies
-`npm install`
+```npm install```
 
 3. Run the Development Server
-`npm run dev`
+```npm run dev```
 
 4. Build for Production
-`npm run build`
+```npm run build```
 
 
 ## Usage
